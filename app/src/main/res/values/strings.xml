@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">音乐播放器</string>
+    <string name="Copyright">Copyright ©Zoom. All Rights Reserved</string>
+    <!--右侧边栏-->
+    <string name="scan">扫描歌曲</string>
+    <string name="repeat_mode">列表循环</string>
+    <string name="change_bg">换背景</string>
+    <string name="alarm">睡眠</string>
+    <string name="settings">设置</string>
+    <string name="exit">退出</string>
+    <string name="my_music">我的音乐</string>
+
+    <string name="loved_one">我的最爱</string>
+    <string name="direct">文件夹</string>
+    <string name="artists">歌手</string>
+    <string name="albums">专辑</string>
+    <string name="network_music">网络音乐</string>
+    <string name="title_activity_folders">FoldersActivity</string>
+
+    <string name="appwidget_text">i love you</string>
+    <string name="add_widget">Add widget</string>
+
+
+
+    <string name="permission_get_accounts_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_GET_ACCOUNTS</string>
+    <string name="permission_read_phone_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_READ_PHONE_STATE</string>
+    <string name="permission_call_phone_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_CALL_PHONE</string>
+    <string name="permission_camera_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_CAMERA</string>
+    <string name="permission_access_fine_location_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_ACCESS_FINE_LOCATION</string>
+    <string name="permission_access_coarse_location_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_ACCESS_COARSE_LOCATION</string>
+    <string name="permission_read_external_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_READ_EXTERNAL_STORAGE</string>
+    <string name="permission_white_external_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_WRITE_EXTERNAL_STORAGE</string>
+    <string name="permission_recode_audio_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_RECORD_AUDIO</string>
+
+</resources>
